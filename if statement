@@ -1,5 +1,0 @@
-a=2
-if a%2==0 :
-  print("its a even")
-else :
-   print("its odd") 
